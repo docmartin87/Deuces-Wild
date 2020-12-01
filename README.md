@@ -17,7 +17,7 @@ Provide links to external resources, such as the band's social media profiles (c
 ## Code Used
 
 - The Code Institute student template for Gitpod.
+- Code Institute Module - User Centric Frontend Development, Resume Project
 - Bootstrap
 - Font Awesome
 - Google Fonts
-- Code Institute Module - User Centric Frontend Development, Resume Project
