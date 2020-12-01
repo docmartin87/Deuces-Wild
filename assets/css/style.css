@@ -58,6 +58,34 @@ header{
 
 
 
+/*--- Section ---*/
+
+.section{
+    padding: 15px 0;
+    color: #d6d6d6;
+    background-color: #111111;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.contact-heading{
+    text-align: center;
+    padding: 15px 0;
+}
+
+.form-group{
+    padding-bottom: 25px;
+}
+
+.form-style{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*--- / section ---*/
+
+
+
 
 /*--- Footer ---*/
 
