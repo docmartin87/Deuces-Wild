@@ -25,3 +25,7 @@ Provide links to external resources, such as the band's social media profiles (c
 
 ## Credits
 - Header Button Verticle Alignment (https://medium.com/wdstack/bootstrap-4-vertical-center-1211448a2eff#:~:text=One%20way%20to%20vertically%20center,col%2Dsm%2D12%20column.)
+- band.html / Leonardo - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Leonardo_(Teenage_Mutant_Ninja_Turtles))
+- band.html / Raphael - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Raphael_(Teenage_Mutant_Ninja_Turtles))
+- band.html / Donatello - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles))
+- band.html / Michelangelo - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Michelangelo_(Teenage_Mutant_Ninja_Turtles))

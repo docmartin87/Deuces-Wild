@@ -68,11 +68,81 @@ header{
     font-weight: 400;
 }
 
-.contact-heading{
+.section-heading{
     text-align: center;
-    padding: 15px 0;
+    padding: 30px 0;
+    text-decoration: underline;
 }
 
+/*--- --- band.html Section --- ---*/
+.band-members{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.band-members .row{
+    padding-bottom: 30px;
+}
+
+.band-details li{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: #d6d6d6;
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    list-style-type: none;
+}
+
+.band-details li h3{
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.band-1-pic{
+    background: url("../images/Leonardo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.band-2-pic{
+    background: url("../images/Raphael.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.band-3-pic{
+    background: url("../images/Donatello.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.band-4-pic{
+    background: url("../images/Michelangelo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+/*--- --- contact.html Section --- ---*/
 .form-group{
     padding-bottom: 25px;
 }
