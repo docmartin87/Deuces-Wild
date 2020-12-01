@@ -21,3 +21,7 @@ Provide links to external resources, such as the band's social media profiles (c
 - Bootstrap
 - Font Awesome
 - Google Fonts
+- hover.css
+
+## Credits
+- Header Button Verticle Alignment (https://medium.com/wdstack/bootstrap-4-vertical-center-1211448a2eff#:~:text=One%20way%20to%20vertically%20center,col%2Dsm%2D12%20column.)
