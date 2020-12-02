@@ -74,15 +74,42 @@ header{
     text-decoration: underline;
 }
 
+/*--- --- index.html Section --- ---*/
+
+.index-section-margin{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.section-heading-red{
+    text-align: center;
+    padding: 45px 0 15px 0;
+    text-decoration: underline;
+    color: #f54519;
+}
+
+.index-section-reviews{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-style: italic;
+    float: left;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*--- --- / index.html Section --- ---*/
+
 /*--- --- gigs.html Section --- ---*/
 
 .gigs-section-margin{
     margin-left: 10%;
     margin-right: 10%;
 }
-
-
-/*--- --- / gigs.html Section --- ---*/
 
 .gigs-month{
     text-align: center;
@@ -127,6 +154,8 @@ header{
     content: '';
     background: #f54519;
 }
+/*--- --- / gigs.html Section --- ---*/
+
 /*--- --- merch.html Section --- ---*/
 
 .merch-section-margin{
@@ -190,9 +219,6 @@ header{
     letter-spacing: 2px;
 }
 
-.hvr-sweep-to-bottom:before{
-    background-color: rgba(0, 0, 0, 0.2)
-}
 /*--- --- / merch.html Section --- ---*/
 
 
