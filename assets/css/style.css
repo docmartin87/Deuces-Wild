@@ -74,6 +74,59 @@ header{
     text-decoration: underline;
 }
 
+/*--- --- gigs.html Section --- ---*/
+
+.gigs-section-margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+/*--- --- / gigs.html Section --- ---*/
+
+.gigs-month{
+    text-align: center;
+    padding: 30px 0;
+    color: #f54519;
+    float: right;
+}
+
+.timeline-item{
+    padding: 64px 32px 0px 32px;
+    position: relative;
+    border-left: 1px solid;
+    float: left;
+}
+
+.timeline-item h4{
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before{
+    content: attr(data-date);
+    position: absolute;
+    left: 32px;
+    top: 32px;
+    display: block;
+    font-family: 'Exo', sans-serif;
+    font-weight: 500;
+    font-size: 28px;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after{
+    width: 15px;
+    height: 15px;
+    display: block;
+    top: 42px;
+    position: absolute;
+    left: -7px;
+    border-radius: 50%;
+    content: '';
+    background: #f54519;
+}
 /*--- --- merch.html Section --- ---*/
 
 .merch-section-margin{
@@ -140,6 +193,8 @@ header{
 .hvr-sweep-to-bottom:before{
     background-color: rgba(0, 0, 0, 0.2)
 }
+/*--- --- / merch.html Section --- ---*/
+
 
 /*--- --- band.html Section --- ---*/
 .band-members{
@@ -208,6 +263,7 @@ header{
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+/*--- --- /band.html Section --- ---*/
 
 /*--- --- contact.html Section --- ---*/
 .form-group{
@@ -218,7 +274,7 @@ header{
     margin-left: 10%;
     margin-right: 10%;
 }
-
+/*--- --- / contact.html Section --- ---*/
 /*--- / section ---*/
 
 
