@@ -29,4 +29,3 @@ Provide links to external resources, such as the band's social media profiles (c
 - band.html / Raphael - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Raphael_(Teenage_Mutant_Ninja_Turtles))
 - band.html / Donatello - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Donatello_(Teenage_Mutant_Ninja_Turtles))
 - band.html / Michelangelo - uses images and text from Wikipedia (https://en.wikipedia.org/wiki/Michelangelo_(Teenage_Mutant_Ninja_Turtles))
-- index.html / Youtube video - the ideawas to embed a Youtube video on the Home page but I found myself wasting time looking to make it responsive and not massive on a normal screen so instead I inserted an image and a link
