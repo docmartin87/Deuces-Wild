@@ -1,7 +1,5 @@
 # Deuces Wild (Band Page)
 
-![multi device website mockup](https://github.com/docmartin87/Deuces-Wild/blob/31228d558e9f1f8410402dc3480715a8c8910873/assets/images/MultiDeviceWebsiteMockup.jpg)
-
 This is website for Deuces Wild’s fans and people who are not yet fans to go to if they want to see where the band are playing over the next few months, if they want buy band merchandise, if they want to learn more about the band and its members and if they want to book the band.
 
 It has clear and concise pages and information with the intention of increasing revenue for the band by highlighting who they are and what they offer.
@@ -72,80 +70,124 @@ The Contact page is a form consisting of a name, email and message text input an
 
 ### Languages Used
 
-* HTML5
-* CSS3
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Frameworks, Libraries & Programs Used
-* Code-Institute-Org/gitpod-full-template
+* [Code-Institute-Org/gitpod-full-template](https://github.com/Code-Institute-Org/gitpod-full-template)
     * The project was built using this template
-* Bootstrap
+* [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
     * The project uses Bootstrap for styling
-* Font Awesome
+* [Font Awesome](https://fontawesome.com/)
     * The project uses Font Awesome for the Icons
-* Google Fonts
+* [Google Fonts](https://fonts.google.com/)
     * The project uses Google Fonts for the Icons
-* hover.css
+* [hover.css](https://cdnjs.com/libraries/hover.css)
     * The project uses hover.css for the hover effect on the buttons and links
-* Balsamiq
+* [Balsamiq](https://balsamiq.com/)
     * I used this to create the wireframes 
-* GitHub:
+* [GitHub](https://github.com/)
     * I used this to store the project as I was developing it
-* GitPod
+* [GitPod](https://gitpod.io/)
     * I used this to write the code and used it to push the code to GitHub
 
 
 ## Testing
 
 I used the W3C Markup Validator and W3C CSS Validator to validate my project making sure that there was no syntax errors.
-* W3C Markup Validator
-* W3C CSS Validator
+* [W3C Markup Validator](https://jigsaw.w3.org/css-validator/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 I used Google Chrome and Google Developer Tools for mobile devices to work through and test the page using real world events as the parameters, eg booking the band, contacting the band, checking gig dates, and trying to buy band merchandise.
 
 1. Header/Navigation; from the home page:
-    Go to gigs page – go back to Home page
-ii.	Go to Merch page – go back to home page
-iii.	Go to Band page – go back to Home page
-iv.	Go to Contact page – go back to Home page
+    * Go to gigs page – go back to Home page
+    * Go to Merch page – go back to home page
+    * Go to Band page – go back to Home page
+    * Go to Contact page – go back to Home page
+
 * Also tested on mobile device
 * Also tested from each page to every other page
 
-2.	Footer; Social Media links:
-i.	Go to the Home page
-ii.	Click on Instagram link – Instagram opens
-iii.	Click on Twitter link – Twitter opens
-iv.	Click on Facebook link – Facebook opens
-v.	Click on TikTok link – TikTok opens
-vi.	Click on Snapchat link – Snapchat opens
-vii.	Click on Youtube link – Youtube opens
+2. Footer; Social Media links:
+    * Go to the Home page
+    * Click on Instagram link – Instagram opens
+    * Click on Twitter link – Twitter opens
+    * Click on Facebook link – Facebook opens
+    * Click on TikTok link – TikTok opens
+    * Click on Snapchat link – Snapchat opens
+    * Click on Youtube link – Youtube opens
 
 3.	Header/Navigation; from the home page:
-i.	Go to gigs page – go back to Home page
-ii.	Go to Merch page – go back to home page
-iii.	Go to Band page – go back to Home page
-iv.	Go to Contact page – go back to Home page
+    * Go to gigs page – go back to Home page
+    * Go to Merch page – go back to home page
+    * Go to Band page – go back to Home page
+    * Go to Contact page – go back to Home page
 
 4.	Home Page; image/video link:
-i.	On Home page click on Youtube video image
-ii.	Youtube video opens in new tab
+    * On Home page click on Youtube video image
+    * Youtube video opens in new tab
 
 5.	Home Page; “Or Click Here” link:
-i.	On Home page click on “Or Click Here” link
-ii.	contact.html opens
+    * On Home page click on “Or Click Here” link
+    * contact.html opens
 
 6.	Gigs Link; gigs.html:
-i.	Gigs page opens and looks as intended on desktop and mobile device
+    * Gigs page opens and looks as intended on desktop and mobile device
 
 7.	Merch page; links:
-i.	Merch page opens and looks as intended on desktop and mobile device
-ii.	Records link – opens link in a new tab
-iii.	Clothes link – opens link in a new tab
-iv.	Memorabilia link – opens link in a new tab 
+    * Merch page opens and looks as intended on desktop and mobile device
+    * Records link – opens link in a new tab
+    * Clothes link – opens link in a new tab
+    * Memorabilia link – opens link in a new tab 
 
 8.	Band page:
-i.	Band page opens and looks as intended on desktop and mobile device
+    * Band page opens and looks as intended on desktop and mobile device
 
 9.	Contact page:
-i.	Contact page opens and looks as intended on desktop and mobile device
-ii.	Can input “details” and message
-iii.	When I click send it refreshes the page 
+    * Contact page opens and looks as intended on desktop and mobile device
+    * Can input “details” and message
+    * When I click send it refreshes the page 
+
+
+## Deployment
+
+This project was developed using GitPod, committed to git and pushed to GitHub using the built in function within GitPod.
+
+To deploy this page to GitHub Pages from its GitHub Repository, the following steps were taken:
+1.	Log into GitHub.
+2.	From the list of repositories on the screen, select docmartin87/Deuces-Wild
+3.	From the menu items near the top of the page, select Settings
+4.	Scroll down to the GitHub Pages section
+5.	Under Source, select Master Branch in the dropdown menu and hit Save
+6.	The page will refresh
+7.	Scroll back down the page to locate the now published site link
+
+Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps;
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top right of the page locate and click the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+
+## Credits
+
+### Code
+* Bootstrap Library was used to make the site responsive using mainly it’s grid system.
+* Header Button Verticle Alignment [here](https://medium.com/wdstack/bootstrap-4-vertical-center-1211448a2eff#:~:text=One%20way%20to%20vertically%20center,col%2Dsm%2D12%20column.)
+
+### Content
+* The text for the Home page was taken from the [Deuces Wild](https://www.facebook.com/deuceswildlive/) Facebook page
+* The text for the Band page and the band members information was taken from the [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles) Wikipedia page
+
+### Media
+* The video and logo on the Home page was taken from the [Deuces Wild](https://www.facebook.com/deuceswildlive/) Facebook page
+* The pictures for the Band page for the band members was taken from the [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles) Wikipedia page
+
+### Acknowledgements
+* My mentor for continuous feedback on the project.
+* Tutor support from Code Institute.
+* I received inspiration for this project from the Code Institute Module - User Centric Frontend Development, Resume Project. Whiskey page and Love Running page from previous modules.
+* I received styling inspiration for this project from [The Killers](https://www.thekillersmusic.com/) website
