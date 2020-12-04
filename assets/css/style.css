@@ -107,12 +107,6 @@ header{
     height: 80vh;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /*--- --- / index.html Section --- ---*/
 
 /*--- --- gigs.html Section --- ---*/
@@ -240,7 +234,9 @@ img {
 }
 
 .band-members .row{
-    padding-bottom: 30px;
+    border: #d6d6d6 solid 3px;
+    margin: 15px 0;
+}
 }
 
 .band-details li{
